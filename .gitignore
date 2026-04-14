@@ -1,0 +1,20 @@
+# Environments
+sentiment_env/
+venv/
+env/
+
+# API Credentials
+.env
+
+# Data and Databases
+sentiment_data.csv
+sentiment.db
+
+# Logs
+logs/
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
